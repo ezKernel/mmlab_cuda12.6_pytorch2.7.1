@@ -6,3 +6,5 @@ This project contains mmengine, mmcv, mmdet, mmseg, mmpretrain. All these five s
 |---|---|---|---|---|
 |v0.8.5|v2.2.0|v3.3.0|v1.2.2|v1.2.0|
 
+
+Thanks to Morgan LT (https://github.com/KaceCM).
